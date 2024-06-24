@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f8702873-ab39-455e-9a30-89d56899bcf7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    <list default="true" id="f8702873-ab39-455e-9a30-89d56899bcf7" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,28 +39,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JUnit.TestCreateCourier.executor": "Run",
-    "JUnit.TestLoginCourier.executor": "Run",
-    "JUnit.TestScooterColorsInOrderParametrized.executor": "Run",
-    "JUnit.TestScooterColorsInOrderParametrized.testScooterColorsInOrder.executor": "Run",
-    "Maven.Sprint_7 [clean].executor": "Run",
-    "Maven.Sprint_7 [validate].executor": "Run",
-    "Maven.Sprint_7_Auto_API [clean].executor": "Run",
-    "Maven.Sprint_7_Auto_API [install].executor": "Run",
-    "Maven.Sprint_7_Auto_API [io.qameta.allure:allure-maven:2.10.0:install].executor": "Run",
-    "Maven.Sprint_7_Auto_API [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
-    "Notification.DisplayName-DoNotAsk-WindowsDefender": "Microsoft Defender configuration",
-    "Notification.DoNotAsk-WindowsDefender": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "kotlin-language-version-configured": "true",
-    "last_directory_selection": "C:/cygwin64/home/katen/Sprint_7_Auto_API/src/test/java",
-    "onboarding.tips.debug.path": "C:/cygwin64/home/katen/Sprint_7_Auto_API/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JUnit.TestCreateCourier.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestLoginCourier.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestScooterColorsInOrderParametrized.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestScooterColorsInOrderParametrized.testScooterColorsInOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7 [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7 [validate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7_Auto_API [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7_Auto_API [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7_Auto_API [io.qameta.allure:allure-maven:2.10.0:install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Sprint_7_Auto_API [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor&quot;: &quot;Run&quot;,
+    &quot;Notification.DisplayName-DoNotAsk-WindowsDefender&quot;: &quot;Microsoft Defender configuration&quot;,
+    &quot;Notification.DoNotAsk-WindowsDefender&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/cygwin64/home/katen/Sprint_7_Auto_API/src/test/java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/cygwin64/home/katen/Sprint_7_Auto_API/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.example" />
@@ -134,7 +129,20 @@
       <option name="presentableId" value="Default" />
       <updated>1719136199208</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1719232633895</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719232633895</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
